@@ -1,18 +1,18 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
-carpentry: "FIXME"    "dc"  
+carpentry: dc
                       # Be sure to update the Carpentry type in _config.yml as well.  
-venue: "FIXME"        "Stazione zoologica anton dohrn"
-address: "FIXME"      "Villa Comunale Napoli, 80121 - Naples"
-country: "FIXME"      "it"
-language: "FIXME"     "en"
-latlng: "FIXME"       "40.832726,14.235630"
-humandate: "FIXME"    "Feb 6-7, 2019"
-humantime: "FIXME"    "9:30 am - 4:00 pm")
-startdate: FIXME      2019-02-06
-enddate: FIXME        2019-02-06
-instructor: ["FIXME"] ["Alessandra Vigilante"]
-helper: ["FIXME"]     ["Mara Sangiovanni", "Chiara Colantuono"]
+venue: "Stazione zoologica anton dohrn"
+address: "Villa Comunale Napoli, 80121 - Naples"
+country: "it"
+language: "en"
+latlng: "40.832726,14.235630"
+humandate: "Feb 6-7, 2019"
+humantime: "9:30 am - 4:00 pm"
+startdate: 2019-02-06
+enddate: 2019-02-06
+instructor: ["Alessandra Vigilante"]
+helper: ["Mara Sangiovanni", "Chiara Colantuono"]
 email: ["alessandra.vigilante@kcl.ac.uk"]   ["mara.sangiovanni@gmail.com", "chiusano@unina.it"]
 collaborative_notes:             https://etherpad.net/p/2019-2-6-SZN
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
