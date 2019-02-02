@@ -1,7 +1,6 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
-carpentry: dc
-                      # Be sure to update the Carpentry type in _config.yml as well.  
+carpentry: "dc"
 venue: "Stazione zoologica anton dohrn"
 address: "Villa Comunale Napoli, 80121 - Naples"
 country: "it"
@@ -14,7 +13,7 @@ enddate: 2019-02-06
 instructor: ["Alessandra Vigilante"]
 helper: ["Mara Sangiovanni", "Chiara Colantuono"]
 email: ["alessandra.vigilante@kcl.ac.uk"]   ["mara.sangiovanni@gmail.com", "chiusano@unina.it"]
-collaborative_notes:             https://etherpad.net/p/2019-2-6-SZN
+collaborative_notes: "https://etherpad.net/p/2019-2-6-SZN"
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
