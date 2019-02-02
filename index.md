@@ -1,18 +1,18 @@
 ---
 layout: workshop
 carpentry: "dc"
-venue: "Stazione zoologica anton dohrn"
+venue: "Stazione zoologica Anton Dohrn"
 address: "Villa Comunale Napoli, 80121 - Naples"
 country: "it"
 language: "en"
 latlng: "40.832726,14.235630"
 humandate: "Feb 6-7, 2019"
-humantime: "9:30 am - 4:00 pm"
+humantime: "9:30 am - 5:00 pm"
 startdate: 2019-02-06
-enddate: 2019-02-06
+enddate: 2019-02-07
 instructor: ["Alessandra Vigilante"]
-helper: ["Mara Sangiovanni, Chiara Colantuono"]
-email: ["alessandra.vigilante@kcl.ac.uk, mara.sangiovanni@gmail.com, chiusano@unina.it"]
+helper: ["Mara Sangiovanni, Chiara Colantuono", "Marco Miralto"]
+email: ["alessandra.vigilante@kcl.ac.uk, chiusano@unina.it", mara.sangiovanni@gmail.com]
 collaborative_notes: "https://etherpad.net/p/2019-2-6-SZN"
 ---
 
