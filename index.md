@@ -1,7 +1,7 @@
 ---
 layout: workshop
 carpentry: "dc"
-venue: "Stazione zoologica Anton Dohrn"
+venue: "Stazione Zoologica Anton Dohrn Napoli"
 address: "Villa Comunale Napoli, 80121 - Naples"
 country: "it"
 language: "en"
