@@ -12,7 +12,7 @@ startdate: 2019-02-06
 enddate: 2019-02-07
 instructor: ["Alessandra Vigilante"]
 helper: ["Mara Sangiovanni, Chiara Colantuono", "Marco Miralto"]
-email: ["chiusano@unina.it, mara.sangiovanni@gmail.com,alessandra.vigilante@kcl.ac.uk"]
+email: ["chiusano@unina.it, mara.sangiovanni@szn.it,alessandra.vigilante@kcl.ac.uk"]
 collaborative_notes: "https://etherpad.net/p/2019-2-6-SZN"
 ---
 
