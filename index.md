@@ -323,7 +323,7 @@ collaborative_notes: "https://etherpad.net/p/2019-2-6-SZN"
       </p>
     </div>
   </div>
-</div> {% comment %} End of 'R' section. {% endcomment %}
+{% comment %} End of 'R' section. {% endcomment %}
 
 
  
