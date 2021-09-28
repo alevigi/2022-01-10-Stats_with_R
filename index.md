@@ -11,7 +11,7 @@ humantime: "9:30 am - 15 pm"
 startdate: 2021-10-04
 enddate: 2021-10-04
 instructor: ["Alessandra Vigilante"]
-email: ["alessandra.vigilante@kcl.ac.uk]
+email: ["alessandra.vigilante@kcl.ac.uk"]
 collaborative_notes: "https://pad.carpentries.org/Innovation_Scholar_R_Oct21"
 ---
 
