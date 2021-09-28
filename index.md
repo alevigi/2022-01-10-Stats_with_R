@@ -34,6 +34,7 @@ collaborative_notes: "https://pad.carpentries.org/Innovation_Scholar_R_Oct21"
 
   Edit the general explanatory paragraph below if you want to change
   the pitch.
+  
 {% endcomment %}
 {% if page.carpentry == "swc" %}
   {% include sc/intro.html %}
