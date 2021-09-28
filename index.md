@@ -7,7 +7,7 @@ country: "gb"
 language: "en"
 latlng: "0"
 humandate: "Oct 4-6, 2021"
-humantime: "9:30 am - 15 pm"
+humantime: "9:30 am - 15:00 pm"
 startdate: 2021-10-04
 enddate: 2021-10-04
 instructor: ["Alessandra Vigilante"]
