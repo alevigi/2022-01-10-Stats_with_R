@@ -121,13 +121,7 @@ collaborative_notes: "https://pad.carpentries.org/Innovation_Scholar_R_Oct21"
 <p id="accessibility">
   <strong>Accessibility:</strong> We are committed to making this workshop
   accessible to everybody.
-  The workshop organizers have checked that:
-</p>
-<ul>
-  <li>The training room is located on the first floor and there is currently no wheelchair or level access available to this level</li>
-  <li>Accessible restrooms are available.</li>
-</ul>
-<p>
+
   If we can help making learning easier for
   you (e.g. sign-language interpreters, lactation facilities) please
   get in touch (using contact details below) and we will
