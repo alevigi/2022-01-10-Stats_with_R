@@ -69,7 +69,7 @@ collaborative_notes: "https://pad.carpentries.org/Innovation_Scholar_R_Oct21"
 <p id="where">
   <strong>Where:</strong>
   {{page.address}}.
-  Links below:
+  
   <a href="https://eur03.safelinks.protection.outlook.com/ap/t-59584e83/?url=https%3A%2F%2Fteams.microsoft.com%2Fl%2Fmeetup-join%2F19%253ameeting_MjMzNWE3NTYtNmRjMi00YmExLWFkYWItZTk1YzE4MmNmZmRl%2540thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%25228370cf14-16f3-4c16-b83c-724071654356%2522%252c%2522Oid%2522%253a%2522700e89bd-4daf-4128-97e2-73af05b93857%2522%257d&data=04%7C01%7Calessandra.vigilante%40kcl.ac.uk%7Ce2621c269a574b7a344d08d982624fb3%7C8370cf1416f34c16b83c724071654356%7C0%7C0%7C637684181010345106%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=T0l4E5F48qVYWc3ZWQZEEFTngqb8PIc96s7%2FTCjMNog%3D&reserved=0>TEAMS link Day 1 (9:30-15:00)</a>
   
   <a href="https://eur03.safelinks.protection.outlook.com/ap/t-59584e83/?url=https%3A%2F%2Fteams.microsoft.com%2Fl%2Fmeetup-join%2F19%253ameeting_ZmFmOTRjYzQtMGY2Ni00YWUyLWExYTItZjQ4NzViYmRkYmYz%2540thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%25228370cf14-16f3-4c16-b83c-724071654356%2522%252c%2522Oid%2522%253a%2522700e89bd-4daf-4128-97e2-73af05b93857%2522%257d&data=04%7C01%7Calessandra.vigilante%40kcl.ac.uk%7Cb8cdbaaf2d404f35a2ca08d982626aa1%7C8370cf1416f34c16b83c724071654356%7C0%7C0%7C637684181476196628%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=wBh%2FevFPZEw%2BEfr9G4Cf8nDFabyfih1wCO6PjftdnhI%3D&reserved=0">TEAMS link Day 2 (9:30-15:00)</a>
