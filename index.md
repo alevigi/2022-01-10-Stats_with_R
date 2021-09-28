@@ -1,7 +1,7 @@
 ---
 layout: workshop
 carpentry: "dc"
-venue: "KCL - Innovation Scholars UKRI: Big data Training"
+venue: "KCL - Innovation Scholars UKRI: R workshop"
 address: "TEAMS meetings"
 country: "gb"
 language: "en"
