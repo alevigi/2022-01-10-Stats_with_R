@@ -123,7 +123,7 @@ collaborative_notes: "https://pad.carpentries.org/Innovation_Scholar_R_Oct21"
   accessible to everybody.
 
   If we can help making learning easier for
-  you (e.g. sign-language interpreters, lactation facilities) please
+  you (e.g. sign-language interpreters) please
   get in touch (using contact details below) and we will
   attempt to provide them.
 </p>
