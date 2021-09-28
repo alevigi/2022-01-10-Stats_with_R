@@ -1,17 +1,17 @@
 ---
 layout: workshop
 carpentry: "dc"
-venue: "https://eur03.safelinks.protection.outlook.com/ap/t-59584e83/?url=https%3A%2F%2Fteams.microsoft.com%2Fl%2Fmeetup-join%2F19%253ameeting_MjMzNWE3NTYtNmRjMi00YmExLWFkYWItZTk1YzE4MmNmZmRl%2540thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%25228370cf14-16f3-4c16-b83c-724071654356%2522%252c%2522Oid%2522%253a%2522700e89bd-4daf-4128-97e2-73af05b93857%2522%257d&data=04%7C01%7Calessandra.vigilante%40kcl.ac.uk%7Ce2621c269a574b7a344d08d982624fb3%7C8370cf1416f34c16b83c724071654356%7C0%7C0%7C637684181010345106%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=T0l4E5F48qVYWc3ZWQZEEFTngqb8PIc96s7%2FTCjMNog%3D&reserved=0"
-address: "Center for Stem Cells and Regenerative Medicine - King's College London"
-country: "uk"
+venue: "Microsoft TEAMS"
+address: "Center for Stem Cells and Regenerative Medicine"
+country: "gb"
 language: "en"
 latlng: "0"
-humandate: "Feb 6-7, 2019"
-humantime: "9:30 am - 5:00 pm"
+humandate: "Oct 4-6, 2021"
+humantime: "9:30 am - 15 pm"
 startdate: 2021-10-04
-enddate: 2021-10-06
+enddate: 2021-10-04
 instructor: ["Alessandra Vigilante"]
-email: ["alessandra.vigilante@kcl.ac.uk"]
+email: ["alessandra.vigilante@kcl.ac.uk]
 collaborative_notes: "https://pad.carpentries.org/Innovation_Scholar_R_Oct21"
 ---
 
@@ -34,7 +34,6 @@ collaborative_notes: "https://pad.carpentries.org/Innovation_Scholar_R_Oct21"
 
   Edit the general explanatory paragraph below if you want to change
   the pitch.
-  
 {% endcomment %}
 {% if page.carpentry == "swc" %}
   {% include sc/intro.html %}
@@ -67,7 +66,15 @@ collaborative_notes: "https://pad.carpentries.org/Innovation_Scholar_R_Oct21"
   address.
 {% endcomment %}
 {% if page.latlng %}
-
+<p id="where">
+  <strong>Where:</strong>
+  {{page.address}}.
+  Get directions with
+  <a href="//www.openstreetmap.org/?mlat={{page.latlng | replace:',','&mlon='}}&zoom=16">OpenStreetMap</a>
+  or
+  <a href="//maps.google.com/maps?q={{page.latlng}}">Google Maps</a>.
+</p>
+{% endif %}
 
 {% comment %}
   DATE
@@ -88,7 +95,7 @@ collaborative_notes: "https://pad.carpentries.org/Innovation_Scholar_R_Oct21"
   Modify the block below if there are any special requirements.
 {% endcomment %}
 <p id="requirements">
-  <strong>Requirements:</strong> Participants need a computer with a
+  <strong>Requirements:</strong> Participants must bring a laptop with a
   Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges
   on. They should have R and R studios installed (listed
   <a href="#setup">below</a>). They are also required to abide by
@@ -114,7 +121,7 @@ collaborative_notes: "https://pad.carpentries.org/Innovation_Scholar_R_Oct21"
   The workshop organizers have checked that:
 </p>
 <ul>
-  <li>The room is wheelchair / scooter accessible.</li>
+  <li>The training room is located on the first floor and there is currently no wheelchair or level access available to this level</li>
   <li>Accessible restrooms are available.</li>
 </ul>
 <p>
@@ -316,7 +323,6 @@ collaborative_notes: "https://pad.carpentries.org/Innovation_Scholar_R_Oct21"
     </div>
   </div>
 {% comment %} End of 'R' section. {% endcomment %}
-
 
 
  
