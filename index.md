@@ -11,7 +11,8 @@ humantime: "9:30 am - 15:00 pm"
 startdate: 2021-10-04
 enddate: 2021-10-04
 instructor: ["Dr. Alessandra Vigilante <br>
-Senior Lecturer. Center for Stem Cells and Regenerative Medicine KCL"]
+Senior Lecturer. <br>
+Center for Stem Cells and Regenerative Medicine KCL"]
 email: ["alessandra.vigilante@kcl.ac.uk", "emily.2.robinson@kcl.ac.uk"]
 collaborative_notes: "https://pad.carpentries.org/Innovation_Scholar_R_Oct21"
 ---
