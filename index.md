@@ -1,8 +1,8 @@
 ---
 layout: workshop
 carpentry: "dc"
-venue: "Microsoft TEAMS"
-address: "Center for Stem Cells and Regenerative Medicine"
+venue: "KCL - Innovation Scholar UKRI: Big data Training
+address: "TEAMS meetings"
 country: "gb"
 language: "en"
 latlng: "0"
