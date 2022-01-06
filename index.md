@@ -1,12 +1,12 @@
 ---
 layout: workshop
 carpentry: "dc"
-venue: "KCL - Innovation Scholars UKRI: R workshop"
+venue: "KCL - Innovation Scholars UKRI: Statistical analysis with R workshop"
 address: "TEAMS meetings"
 country: "gb"
 language: "en"
 latlng: "0"
-humandate: "Oct 4-6, 2021"
+humandate: "Jan 10-24, 20222"
 humantime: "9:30 am - 15:00 pm"
 startdate: 2021-10-04
 enddate: 2021-10-04
